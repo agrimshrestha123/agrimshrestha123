@@ -4,6 +4,7 @@
 
 ### Learning Full Stack Developer
 
+//<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+PHP+%7C+MySQL;Currently+Learning+Django;Open+Source+Enthusiast" alt="Typing SVG" />//
 
 </div>
 
@@ -36,11 +37,14 @@ I'm a full-stack developer in progress, focused on building modern web applicati
 
 ## 📊 GitHub Analytics
 
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=agrimshrestha123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://github-readme-stats.vercel.app/api?username=agrimshrestha123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrimshrestha123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrimshrestha123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+
+</div>
 
 </div>
 
@@ -111,7 +115,7 @@ Daily frontend practice repository focused on HTML and basic styling.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/agrim-shrestha">
+<a href="[https://linkedin.com/in/agrim-shrestha](https://www.linkedin.com/in/agrim-shrestha-806627282/)">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -128,6 +132,7 @@ Daily frontend practice repository focused on HTML and basic styling.
 ---
 
 ## ⚡ Fun Fact
+I spend more time improving code structure than writing the actual feature.
 
 <div align="center">
 
