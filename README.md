@@ -115,7 +115,7 @@ Daily frontend practice repository focused on HTML and basic styling.
 
 <div align="center">
 
-<a href="[https://linkedin.com/in/agrim-shrestha](https://www.linkedin.com/in/agrim-shrestha-806627282/)">
+<a href="https://www.linkedin.com/in/agrim-shrestha-806627282/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
