@@ -4,7 +4,7 @@
 
 ### Learning Full Stack Developer
 
-//<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+PHP+%7C+MySQL;Currently+Learning+Django;Open+Source+Enthusiast" alt="Typing SVG" />//
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+PHP+%7C+MySQL;Currently+Learning+Django;Open+Source+Enthusiast" alt="Typing SVG" />
 
 </div>
 
@@ -25,7 +25,7 @@ I'm a full-stack developer in progress, focused on building modern web applicati
 ## 🛠️ Tech Stack
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,js" />
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,js,dart" />
 
 ### Backend & Database
 <img src="https://skillicons.dev/icons?i=php,mysql,django" />
