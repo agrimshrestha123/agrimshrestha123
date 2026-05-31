@@ -35,21 +35,6 @@ I'm a full-stack developer in progress, focused on building modern web applicati
 
 ---
 
-## 📊 GitHub Analytics
-
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=agrimshrestha123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrimshrestha123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-
-</div>
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
